@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![nalbam's github stats](https://github-readme-stats.vercel.app/api?username=nalbam&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nalbam.github.io/)](https://nalbam.github.io/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nalbam/)](https://www.linkedin.com/in/nalbam/)
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCxTJB34A6V8WIsYogeGQhYg)](https://www.youtube.com/channel/UCxTJB34A6V8WIsYogeGQhYg)
+
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nalbam)](https://www.facebook.com/nalbam)
+
 <!--
 **nalbam/nalbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
