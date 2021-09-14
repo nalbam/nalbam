@@ -4,11 +4,11 @@
 
 </div>
 
-### DevOps Engineer / SRE
+### 🤖 DevOps Engineer / SRE
 
-### AWS ML Hero
+### 🦸🏻‍♂️ AWS ML Hero
 
-### AWS DeepRacer Championship 2019,2020 Finalist
+### 🚗 AWS DeepRacer Championship 2019,2020 Finalist
 
 <div>
 
