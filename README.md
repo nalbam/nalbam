@@ -1,6 +1,6 @@
 <div>
 
-[![nalbam's github stats](https://github-readme-stats.vercel.app/api?username=nalbam&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![nalbam's github stats](https://github-readme-stats.vercel.app/api?username=nalbam&show_icons=true&theme=dracula&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
