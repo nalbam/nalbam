@@ -4,7 +4,7 @@
 
 </div>
 
-### 🤖 SRE
+### 🤖 SRE / DevOps
 
 ### 🦸🏻‍♂️ AWS Hero
 
