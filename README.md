@@ -1,6 +1,6 @@
 <div>
 
-![nalbam's cover](static/nalbam-cover.png)
+![nalbam's cover](static/nalbam-cover-v2.png)
 
 </div>
 
