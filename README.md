@@ -4,11 +4,11 @@
 
 </div>
 
-### 🤖 DevOps / SRE @ Karrot
+### 👨🏻‍💻 DevOps / SRE @ Daangn Market 🥕
 
 ### 🦸 AWS Machine Learning Hero
 
-### 🚗 AWS DeepRacer Championship 2019,2020 Finalist
+### 🏎 AWS DeepRacer Championship 2019,2020 Finalist 🏁
 
 <div>
 
