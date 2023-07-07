@@ -4,7 +4,7 @@
 
 </div>
 
-### 🤖 SRE / DevOps
+### 🤖 DevOps / SRE @ Karrot
 
 ### 🦸 AWS Machine Learning Hero
 
