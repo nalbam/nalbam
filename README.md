@@ -4,9 +4,9 @@
 
 </div>
 
-### 👨🏻‍💻 DevOps / SRE @ Daangn Market 🥕
+### 🧑🏻‍💻 DevOps / SRE @ Daangn Market 🥕
 
-### 🦸 AWS Machine Learning Hero
+### 🦸🏻 AWS Machine Learning Hero
 
 ### 🏎 AWS DeepRacer Championship 2019,2020 Finalist 🏁
 
