@@ -4,7 +4,7 @@
 
 </div>
 
-### 🧑🏻‍💻 DevOps / SRE @ Daangn Market 🥕
+### 🧑🏻‍💻 DevOps / SRE @ Karrot 🥕
 
 ### 🦸🏻 AWS Machine Learning Hero
 
