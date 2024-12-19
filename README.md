@@ -4,6 +4,8 @@
 
 </div>
 
+# Hi there, I'm nalbam 👋
+
 ### 🧑🏻‍💻 DevOps / SRE @ Karrot 🥕
 
 ### 🦸🏻 AWS Machine Learning Hero
