@@ -56,7 +56,7 @@ AWS ML Hero로 선정된 **DevOps/SRE 6년 경력**의 인프라 전문가이자
 
 ## 🚀 Highlight Projects
 
-*   **[Toast](https://toast.sh/)**: 생산성 향상을 위한 단축키 기반 앱/웹사이트/파일 실행 도구
+*   **[Toast](https://toastapp.io/)**: 생산성 향상을 위한 단축키 기반 앱/웹사이트/파일 실행 도구
 *   **[AWS Colorful Navbar (Chrome Extension)](https://chromewebstore.google.com/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme)**: AWS 콘솔 리전별 네비게이션 바 색상 변경
 *   **[Opspresso](https://opspresso.com)**: DevOps 자동화 도구 및 베스트 프랙티스 공유 ([GitHub](https://github.com/opspresso))
 
