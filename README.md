@@ -58,13 +58,3 @@ AWS ML Hero로 선정된 **DevOps/SRE 엔지니어**이자 **22년 경력의 개
 더 자세한 경력 사항, 프로젝트 내역, 발표 자료 등은 아래 링크에서 확인하실 수 있습니다:
 
 **🌐 [https://resume.nalbam.com](https://resume.nalbam.com)**
-
----
-
-## 📞 Contact
-
-- 🌐 Website: [nalbam.com](https://nalbam.com)
-- 💼 LinkedIn: [linkedin.com/in/nalbam](https://linkedin.com/in/nalbam)
-- 🐦 Twitter: [@nalbam](https://twitter.com/nalbam)
-- 📺 YouTube: [youtube.com/user/nalbam](https://youtube.com/user/nalbam)
-- ☕ Support: [coff.ee/nalbam](https://coff.ee/nalbam)
