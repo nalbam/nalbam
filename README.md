@@ -22,8 +22,7 @@ AWS ML Hero로 선정된 **DevOps/SRE 6년 경력**의 인프라 전문가이자
 백엔드 개발자로 시작하여 대규모 서비스 개발 및 운영 경험을 쌓은 후, DevOps/SRE 영역으로 전환하여 AWS 클라우드 인프라 설계, 구축 및 자동화 분야에서 깊은 전문성을 발휘하고 있습니다. Kubernetes 멀티 클러스터 환경 관리, CI/CD 파이프라인 구축, 모니터링 및 자동화 시스템 설계에 특화되어 있으며, 현재 당근마켓에서 대규모 트래픽을 처리하는 안정적인 인프라 운영을 담당하고 있습니다.
 
 *   🥕 **DevOps / SRE** @ [Karrot (당근마켓)](https://www.daangn.com/)
-*   🦸🏻 **AWS Machine Learning Hero** ([Profile](https://aws.amazon.com/ko/developer/community/heroes/jungyoul-yu/))
-*   🏎 **AWS DeepRacer Championship 2019, 2020 Finalist** 🏁
+*   🦸🏻 **AWS Machine Learning Hero** ([Profile](https://builder.aws.com/community/@nalbam))
 *   💻 **10+ years Backend Development Experience** (Java, Spring, Node.js, PHP)
 
 ## 🛠️ Key Skills
