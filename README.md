@@ -17,7 +17,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-AWS ML Hero로 선정된 **DevOps/SRE 엔지니어**이자 **22년 경력의 개발자**입니다.
+AWS ML Hero로 선정된 **DevOps/SRE 엔지니어**이자 **10년 이상 경력의 개발자**입니다.
 
 *   🥕 **DevOps / SRE** @ [Karrot (당근마켓)](https://www.daangn.com/)
 *   🦸🏻 **AWS Machine Learning Hero** ([Profile](https://builder.aws.com/community/@nalbam))
