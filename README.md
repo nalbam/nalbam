@@ -4,7 +4,7 @@
 
 </div>
 
-# Hi there, I'm nalbam (유정열) 👋
+# Hi there, I'm nalbam (Jungyoul Yu) 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/nalbam?label=Follow&style=social)](https://github.com/nalbam)
 [![GitHub stars](https://img.shields.io/github/stars/nalbam?label=Stars&style=social)](https://github.com/nalbam?tab=repositories)
@@ -17,11 +17,11 @@
 
 ## 🧑🏻‍💻 About Me
 
-AWS ML Hero로 선정된 **DevOps/SRE 엔지니어**이자 **10년 이상 경력의 개발자**입니다.
+**DevOps/SRE Engineer** and **Developer with 10+ years of experience**, recognized as an AWS ML Hero.
 
 *   🥕 **DevOps / SRE** @ [Karrot (당근마켓)](https://www.daangn.com/)
 *   🦸🏻 **AWS Machine Learning Hero** ([Profile](https://builder.aws.com/community/@nalbam))
-*   🏆 **AWS DeepRacer Championship 파이널리스트** (2020/2019)
+*   🏆 **AWS DeepRacer Championship Finalist** (2020/2019)
 *   💻 **Backend Development Experience** (Java, Spring, Node.js, PHP, Python)
 
 ## 🛠️ Key Skills
@@ -37,15 +37,9 @@ AWS ML Hero로 선정된 **DevOps/SRE 엔지니어**이자 **10년 이상 경력
 
 ## 🚀 Highlight Projects
 
-*   **[Toast](https://toastapp.io/)**: 생산성 향상 단축키 도구
-*   **[AWS Colorful Navbar](https://chromewebstore.google.com/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme)**: AWS 콘솔 리전별 색상 변경 크롬 확장
-*   **[Opspresso](https://opspresso.com)**: DevOps 자동화 도구 및 베스트 프랙티스 ([GitHub](https://github.com/opspresso))
-
-## 🎤 Community
-
-*   AWSKRUG (AWS Korea User Group) 다수 발표
-*   당근마켓 SRE Meetup 발표
-*   AWS Hero Talk 참여
+*   **[Toast](https://toastapp.io/)**: Productivity shortcut tool
+*   **[AWS Colorful Navbar](https://chromewebstore.google.com/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme)**: Chrome extension for AWS console region color customization
+*   **[Opspresso](https://opspresso.com)**: DevOps automation tools and best practices ([GitHub](https://github.com/opspresso))
 
 ## 📊 GitHub Stats
 
@@ -53,8 +47,8 @@ AWS ML Hero로 선정된 **DevOps/SRE 엔지니어**이자 **10년 이상 경력
 
 ---
 
-## 📝 자세한 이력서
+## 📝 Detailed Resume
 
-더 자세한 경력 사항, 프로젝트 내역, 발표 자료 등은 아래 링크에서 확인하실 수 있습니다:
+For more detailed career information, project history, and presentation materials, please visit:
 
 **🌐 [https://resume.nalbam.com](https://resume.nalbam.com)**
