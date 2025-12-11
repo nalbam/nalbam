@@ -20,8 +20,7 @@
 **DevOps/SRE Engineer** and **Developer with 10+ years of experience**, recognized as an AWS ML Hero.
 
 *   🥕 **DevOps / SRE** @ [Karrot (당근마켓)](https://www.daangn.com/)
-*   🦸🏻 **AWS Machine Learning Hero** ([Profile](https://builder.aws.com/community/@nalbam))
-*   🏆 **AWS DeepRacer Championship Finalist** (2020/2019)
+*   🦸🏻 **AWS AI Hero** ([Profile](https://builder.aws.com/community/heroes/JungyoulYu))
 *   💻 **Backend Development Experience** (Java, Spring, Node.js, PHP, Python)
 
 ## 🛠️ Key Skills
