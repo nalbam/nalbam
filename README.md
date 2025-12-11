@@ -17,7 +17,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-**DevOps/SRE Engineer** and **Developer with 10+ years of experience**, recognized as an AWS ML Hero.
+**DevOps/SRE Engineer** and **Developer with 10+ years of experience**, recognized as an AWS AI Hero.
 
 *   🥕 **DevOps / SRE** @ [Karrot (당근마켓)](https://www.daangn.com/)
 *   🦸🏻 **AWS AI Hero** ([Profile](https://builder.aws.com/community/heroes/JungyoulYu))
