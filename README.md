@@ -42,10 +42,10 @@
 
 ## 📊 GitHub Stats
 
-![nalbam's profile details](https://raw.githubusercontent.com/nalbam/nalbam/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![nalbam's profile details](https://raw.githubusercontent.com/nalbam/nalbam/main/profile-summary-card-output/transparent/0-profile-details.svg)
 
-![nalbam's GitHub stats](https://raw.githubusercontent.com/nalbam/nalbam/main/profile-summary-card-output/github_dark/3-stats.svg)
-![nalbam's productive time](https://raw.githubusercontent.com/nalbam/nalbam/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+![nalbam's GitHub stats](https://raw.githubusercontent.com/nalbam/nalbam/main/profile-summary-card-output/transparent/3-stats.svg)
+![nalbam's productive time](https://raw.githubusercontent.com/nalbam/nalbam/main/profile-summary-card-output/transparent/4-productive-time.svg)
 
 ---
 
