@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![nalbam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalbam&show_icons=true&theme=radical)
+![nalbam's GitHub stats](https://raw.githubusercontent.com/nalbam/nalbam/main/profile-summary-card-output/radical/3-stats.svg)
 
 ---
 
