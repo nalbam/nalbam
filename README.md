@@ -36,7 +36,8 @@
 
 ## 🚀 Highlight Projects
 
-*   **[Toast](https://toastapp.io/)**: Productivity shortcut tool
+*   **[Toast](https://app.toast.sh/)**: Productivity shortcut tool
+*   **[VibeMon](https://vibemon.io/)**: AI Agent Monitoring Dashboard
 *   **[AWS Colorful Navbar](https://chromewebstore.google.com/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme)**: Chrome extension for AWS console region color customization
 *   **[Opspresso](https://opspresso.com)**: DevOps automation tools and best practices ([GitHub](https://github.com/opspresso))
 
