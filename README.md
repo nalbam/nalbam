@@ -36,10 +36,12 @@
 
 ## 🚀 Highlight Projects
 
-*   **[Toast](https://app.toast.sh/)**: Productivity shortcut tool
-*   **[VibeMon](https://vibemon.io/)**: AI Agent Monitoring Dashboard
+*   **[Toast](https://toastapp.dev)**: Shortcut launcher for macOS and Windows
+*   **[VibeMon](https://vibemon.io)**: Real-time status monitor for AI coding agents
+*   **[Agent Studio](https://studio.opspresso.com)**: Build and operate production AI agents
+*   **[romty](https://romty.dev)**: Terminal workspace whose shell sessions outlive the UI
 *   **[AWS Colorful Navbar](https://chromewebstore.google.com/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme)**: Chrome extension for AWS console region color customization
-*   **[Opspresso](https://opspresso.com)**: DevOps automation tools and best practices ([GitHub](https://github.com/opspresso))
+*   **[OpsPresso](https://opspresso.com)**: The studio behind Toast, VibeMon, Agent Studio, and romty ([GitHub](https://github.com/opspresso))
 
 ## 📊 GitHub Stats
 
