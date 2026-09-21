@@ -47,8 +47,8 @@
 
 ![nalbam's profile details](https://raw.githubusercontent.com/nalbam/nalbam/summary/profile-summary-card-output/transparent/0-profile-details.svg)
 
+![nalbam's most commit language](https://raw.githubusercontent.com/nalbam/nalbam/summary/profile-summary-card-output/transparent/2-most-commit-language.svg)
 ![nalbam's GitHub stats](https://raw.githubusercontent.com/nalbam/nalbam/summary/profile-summary-card-output/transparent/3-stats.svg)
-![nalbam's productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nalbam&theme=transparent&utcOffset=9)
 
 ---
 
