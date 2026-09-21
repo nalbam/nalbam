@@ -22,5 +22,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: nalbam
-          BRANCH_NAME: main
+          BRANCH_NAME: summary
           AUTO_PUSH: true
