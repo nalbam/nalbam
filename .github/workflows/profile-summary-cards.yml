@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+        with:
+          ref: summary
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           # Must be a PAT, not the built-in GITHUB_TOKEN: the Actions installation
@@ -22,5 +24,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: nalbam
-          BRANCH_NAME: summary
           AUTO_PUSH: true
