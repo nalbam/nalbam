@@ -38,7 +38,7 @@
 
 *   **[Toast](https://toastapp.dev)**: Shortcut launcher for macOS and Windows
 *   **[VibeMon](https://vibemon.io)**: Real-time status monitor for AI coding agents
-*   **[Agent Studio](https://studio.opspresso.com)**: Build and operate production AI agents
+*   **[Agent Studio](https://studio.agrt.dev)**: Build and operate production AI agents
 *   **[romty](https://romty.dev)**: Terminal workspace whose shell sessions outlive the UI
 *   **[AWS Colorful Navbar](https://chromewebstore.google.com/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme)**: Chrome extension for AWS console region color customization
 *   **[OpsPresso](https://opspresso.com)**: The studio behind Toast, VibeMon, Agent Studio, and romty ([GitHub](https://github.com/opspresso))
