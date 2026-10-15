@@ -17,13 +17,19 @@
 
 ## 🧑🏻‍💻 About Me
 
-**DevOps/SRE Engineer** and **Developer with 10+ years of experience**, recognized as an AWS AI Hero.
+**Agent Platform Engineer / AWS AI Hero**
 
-*   🥕 **DevOps / SRE** @ [Karrot (당근마켓)](https://www.daangn.com/)
+I build platforms and tools for developing and operating AI agents, drawing on my background in backend development, cloud infrastructure, and SRE.
+
 *   🦸🏻 **AWS AI Hero** ([Profile](https://builder.aws.com/community/heroes/JungyoulYu))
-*   💻 **Backend Development Experience** (Java, Spring, Node.js, PHP, Python)
+*   🥕 Previously **DevOps Engineer / SRE** @ [Karrot (당근마켓)](https://www.daangn.com/) · August 2020–September 2026
+*   💻 Backend development experience with Java, Spring, Node.js, PHP, and Python
 
 ## 🛠️ Key Skills
+
+*   **Agent platforms**: Agent runtimes, MCP tool integration, skills and plugins, evaluation, tracing, and cost tracking
+*   **Cloud & reliability**: AWS, Kubernetes, Terraform, CI/CD, monitoring, and infrastructure automation
+*   **Backend development**: APIs, authentication, and service integration
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
@@ -36,10 +42,10 @@
 
 ## 🚀 Highlight Projects
 
-*   **[Toast](https://toastapp.dev)**: Shortcut launcher for macOS and Windows
-*   **[VibeMon](https://vibemon.io)**: Real-time status monitor for AI coding agents
 *   **[Agent Studio](https://studio.agrt.dev)**: Build and operate production AI agents
+*   **[VibeMon](https://vibemon.io)**: Real-time status monitor for AI coding agents
 *   **[romty](https://romty.dev)**: Terminal workspace whose shell sessions outlive the UI
+*   **[Toast](https://toastapp.dev)**: Shortcut launcher for macOS and Windows
 *   **[AWS Colorful Navbar](https://chromewebstore.google.com/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme)**: Chrome extension for AWS console region color customization
 *   **[OpsPresso](https://opspresso.com)**: The studio behind Toast, VibeMon, Agent Studio, and romty ([GitHub](https://github.com/opspresso))
 
