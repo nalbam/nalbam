@@ -19,7 +19,7 @@
 
 **Agent Platform Engineer / AWS AI Hero**
 
-I build platforms and tools for developing and operating AI agents, drawing on my background in backend development, cloud infrastructure, and SRE.
+I build AI agent platforms that connect conversations, context, coding, and app delivery. My background in backend development, cloud infrastructure, and SRE shapes how I design and operate these services.
 
 *   🦸🏻 **AWS AI Hero** ([Profile](https://builder.aws.com/community/heroes/JungyoulYu))
 *   🥕 Previously **DevOps Engineer / SRE** @ [Karrot (당근마켓)](https://www.daangn.com/) · August 2020–September 2026
@@ -27,7 +27,7 @@ I build platforms and tools for developing and operating AI agents, drawing on m
 
 ## 🛠️ Key Skills
 
-*   **Agent platforms**: Agent runtimes, MCP tool integration, skills and plugins, evaluation, tracing, and cost tracking
+*   **Agent platforms**: Agent orchestration, MCP integration, OIDC identity, model routing, memory, retrieval, isolated execution, and app delivery
 *   **Cloud & reliability**: AWS, Kubernetes, Terraform, CI/CD, monitoring, and infrastructure automation
 *   **Backend development**: APIs, authentication, and service integration
 
@@ -42,12 +42,28 @@ I build platforms and tools for developing and operating AI agents, drawing on m
 
 ## 🚀 Highlight Projects
 
-*   **[Agent Studio](https://studio.agrt.dev)**: Build and operate production AI agents
+### [Agent Platform](https://opspresso.com/#platform)
+
+Six independent services for taking an idea from an agent conversation to a running app. Each service owns its console, settings, data, and permissions.
+
+| Service | What I build |
+| --- | --- |
+| [Studio](https://studio.agrt.dev) | Agent orchestration, MCP tools, skills, conversations, approvals, and run traces |
+| [Models](https://models.agrt.dev) | Provider connections, approved models, request routing, and usage and cost tracking |
+| [Memory](https://memory.agrt.dev) | Durable context, scoped sharing, version history, and handoffs across sessions and coding clients |
+| [Knowledge](https://knowledge.agrt.dev) | Documents, recordings, transcripts, meeting notes, source-linked retrieval, and knowledge graphs |
+| [Forge](https://forge.agrt.dev) | Persistent workspaces, sandboxed coding sessions, GitHub connections, and protected Git approvals |
+| [Delivery](https://delivery.agrt.dev) | App resources and secrets, application.yaml, builds, deployments, promotion, and rollback |
+
+Shared architecture and acceptance scenarios live in `agent-platform`. Reusable skills and MCP declarations live in [agent-plugins](https://github.com/opspresso/agent-plugins). Studio connects to Memory, Knowledge, Forge, and Delivery through MCP; Models supplies the central model gateway. App delivery combines Argo Workflows, GitOps, and environment-specific approvals.
+
+### Developer tools
+
 *   **[VibeMon](https://vibemon.io)**: Real-time status monitor for AI coding agents
 *   **[romty](https://romty.dev)**: Terminal workspace whose shell sessions outlive the UI
 *   **[Toast](https://toastapp.dev)**: Shortcut launcher for macOS and Windows
 *   **[AWS Colorful Navbar](https://chromewebstore.google.com/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme)**: Chrome extension for AWS console region color customization
-*   **[OpsPresso](https://opspresso.com)**: The studio behind Toast, VibeMon, Agent Studio, and romty ([GitHub](https://github.com/opspresso))
+*   **[OpsPresso](https://opspresso.com)**: My independent home for Agent Platform, VibeMon, romty, and Toast ([GitHub](https://github.com/opspresso))
 
 ## 📊 GitHub Stats
 
