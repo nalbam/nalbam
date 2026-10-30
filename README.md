@@ -53,9 +53,9 @@ Six independent services for taking an idea from an agent conversation to a runn
 | [Memory](https://memory.agrt.dev) | Durable context, scoped sharing, version history, and handoffs across sessions and coding clients |
 | [Knowledge](https://knowledge.agrt.dev) | Documents, recordings, transcripts, meeting notes, source-linked retrieval, and knowledge graphs |
 | [Forge](https://forge.agrt.dev) | Persistent workspaces, sandboxed coding sessions, GitHub connections, and protected Git approvals |
-| [Delivery](https://delivery.agrt.dev) | App resources and secrets, application.yaml, builds, deployments, promotion, and rollback |
+| [Runway](https://runway.agrt.dev) | App resources and secrets, application.yaml, builds, deployments, promotion, and rollback |
 
-Shared architecture and acceptance scenarios live in `agent-platform`. Reusable skills and MCP declarations live in [agent-plugins](https://github.com/opspresso/agent-plugins). Studio connects to Memory, Knowledge, Forge, and Delivery through MCP; Models supplies the central model gateway. App delivery combines Argo Workflows, GitOps, and environment-specific approvals.
+Shared architecture and acceptance scenarios live in `agent-platform`. Reusable skills and MCP declarations live in [agent-plugins](https://github.com/opspresso/agent-plugins). Studio connects to Memory, Knowledge, Forge, and Runway through MCP; Models supplies the central model gateway. App delivery combines Argo Workflows, GitOps, and environment-specific approvals.
 
 ### Developer tools
 
